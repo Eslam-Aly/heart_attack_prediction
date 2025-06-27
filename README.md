@@ -53,6 +53,7 @@ This repository contains a machine learning pipeline to predict heart attack ris
 
 ## 🧪 Requirements
 
+<code>
 Install dependencies using:
 
 bash
@@ -62,7 +63,7 @@ Main packages:
 	•	scikit-learn
 	•	seaborn, matplotlib
 	•	imbalanced-learn (for SMOTE)
-
+ </code>
 
 💾 Using the Trained Model
 
